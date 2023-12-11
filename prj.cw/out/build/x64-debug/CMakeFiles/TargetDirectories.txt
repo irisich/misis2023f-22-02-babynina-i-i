@@ -1,0 +1,3 @@
+D:/oop/ContentChecker/out/build/x64-debug/CMakeFiles/ContentChecker.dir
+D:/oop/ContentChecker/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/oop/ContentChecker/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
