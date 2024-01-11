@@ -5,3 +5,4 @@ project(misis2023f-22-02-babynina-i-i)
 set(CMAKE_CXX_STANDARD 20)
 
 add_subdirectory(prj.codeforces)
+add_subdirectory(prj.cw)
