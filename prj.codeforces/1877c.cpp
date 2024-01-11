@@ -1,5 +1,16 @@
+#include<iostream>
+#include<algorithm>
+#include<cmath>
+#include<cstring>
+#include<cstdio>
+#include<cstdlib>
+#include<map>
+#include<vector>
+#include<set>
+#include<queue>
+#include<stack>
+#include<deque>
 
-#include <bits/stdc++.h>
 using namespace std;
  
 int main(){
